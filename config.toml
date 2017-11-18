@@ -1,0 +1,50 @@
+baseurl = "http://swiftline.github.io"
+languageCode = "es"
+title = "Ubimio"
+theme = "ubimio"
+[params]
+    description = "Amazing project."
+    #author_url = "http://nsomar.com"
+    #project_url = "http://github.com/swiftline/swiftline"
+    #project_documentation = "http://swiftline.github.io/docs"
+    #github_project_name = "swiftline"
+    #github_user_name = "swiftline"
+
+    first_color="#f8f8f8"
+    first_border_color="#e7e7e7"
+    first_text_color="#333"
+
+    second_color="white"
+    second_text_color="#333"
+
+    header_color="#f8f8f8"
+    header_text_color="rgb(51, 51, 51)"
+
+    header_link_color="#777"
+    header_link_hover_color="rgb(51, 51, 51)"
+
+    custom_css="css/style.css"
+    googleAnalytics = "UA-xxxxx"
+
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:bushbama@whitehouse.gov"
+[[params.social]]
+    title = "twitter"
+    icon = "twitter"
+    url = "https://twitter.com/SBootstrap"
+[[params.social]]
+    title = "github"
+    icon = "github"
+    url = "https://github.com/IronSummitMedia/startbootstrap"
+[[params.social]]
+    title = "linkedin"
+    icon = "linkedin"
+    url = "http://linkedin.com/yourusername"
+
+
+#baseURL = "http://ubimio.com"
+#languageCode = "en-us"
+#title = "Ubimio"
+#theme = "ubimio"
