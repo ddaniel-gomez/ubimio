@@ -1,9 +1,10 @@
 baseurl = "http://swiftline.github.io"
 languageCode = "es"
-title = "Ubimio"
-theme = "ubimio"
+title = "Kywyky"
+theme = "kywyky"
 [params]
-    description = "Amazing project."
+    description = "Coming soon"
+    slogan = "Descubre una nueva plataforma que revolucionará el mundo de los seguros"
     #author_url = "http://nsomar.com"
     #project_url = "http://github.com/swiftline/swiftline"
     #project_documentation = "http://swiftline.github.io/docs"
@@ -18,7 +19,7 @@ theme = "ubimio"
     second_text_color="#333"
 
     header_color="#f8f8f8"
-    header_text_color="rgb(51, 51, 51)"
+    header_text_color="#fff"
 
     header_link_color="#777"
     header_link_hover_color="rgb(51, 51, 51)"
