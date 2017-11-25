@@ -37,7 +37,7 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     height: calc(100vh - 40px);
-    background-color:rgb(68, 173, 183);
+    background: linear-gradient(226deg, #44adb7, #063b60);
 }
 
 .intro-message {
@@ -127,6 +127,12 @@ h6 {
 }
 
 /********* moving **********/
+
+.social {
+    position: absolute;
+    top: 10px;
+    left: 80%;
+}
 
 .github-btn {
     margin-top: 10px;
