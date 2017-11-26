@@ -1,6 +1,6 @@
 baseurl = "http://swiftline.github.io"
 languageCode = "es"
-title = "Kywyky"
+title = "kywyky"
 theme = "kywyky"
 [params]
     description = "Coming soon"
