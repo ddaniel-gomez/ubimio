@@ -22,10 +22,10 @@ h6 {
 }
 
 
-.navbar-brand {padding: 15px 0 0 0;}
+.navbar-brand {padding: 3px 0 0 0;}
 .navbar-brand img {
     height: 100%;
-    margin-right: 5px;
+    margin: -1px 5px 0 0;
 }
 
 .lead {
