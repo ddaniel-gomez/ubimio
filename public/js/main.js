@@ -10,9 +10,9 @@ function moving(){
 	    var arrowY = arrowRects.top + arrowRects.height / 2;
 
 	    //$.debounce(fn, timeout)
-	    addEventListener("mousemove", function(event) {
+	    addEventListener("mousemove", $.debounce(function(event) {
 	    	//console.log("event.clientY: "+ event.clientY +", event.clientX: "+ event.clientX + ", arrowY: "+ arrowY +", arrowX: "+ arrowX);
-	    	$bck1 = (Math.atan2(event.clientY - arrowY, event.clientX - arrowX) * -8.5);
+	    	$bck1 = (Math.atan2(event.clientY - arrowY, event.clientX - arrowX) * -10.5);
 	    	$bck2 = (Math.atan2(event.clientY - arrowY, event.clientX - arrowX) * -3.8);
 	    	$bck3 = (Math.atan2(event.clientY - arrowY, event.clientX - arrowX) * -5.2);
     		$('.bck1').css("transform", "translate3D("+ $bck1 +"px, 0px, 0px)");
@@ -23,7 +23,7 @@ function moving(){
 	        //$('.bck1').css("transform", "scale("+ (Math.atan2(event.clientY - arrowY, event.clientX - arrowX)) / 1 +")");
 	        
 	        //$('.bck3').css("transform", "scale("+ (Math.atan2(event.clientY - arrowY, event.clientX - arrowX)) / 3 +")");
-	    });
+	    }, 50));
 
 	}
 }
