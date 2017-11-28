@@ -1,13 +1,13 @@
-baseurl = "http://swiftline.github.io"
+baseurl = "http://www.kywyky.com"
 languageCode = "es"
 title = "kywyky"
 theme = "kywyky"
 [params]
-    description = "Coming soon"
+    description = "Próximamente"
     slogan = "Descubre la nueva plataforma que revolucionará el mundo de los seguros"
-    #author_url = "http://nsomar.com"
-    #project_url = "http://github.com/swiftline/swiftline"
-    #project_documentation = "http://swiftline.github.io/docs"
+    author_url = "http://www.sadmedia.com"
+    project_url = "http://www.kywyky.com"
+    project_documentation = "http://www.kywyky.com"
     #github_project_name = "swiftline"
     #github_user_name = "swiftline"
 
@@ -30,22 +30,17 @@ theme = "kywyky"
 [[params.social]]
     title = "email"
     icon = "envelope-o"
-    url = "mailto:bushbama@whitehouse.gov"
+    url = "mailto:hello@kywyky.com"
 [[params.social]]
     title = "twitter"
     icon = "twitter"
-    url = "https://twitter.com/SBootstrap"
-[[params.social]]
-    title = "github"
-    icon = "github"
-    url = "https://github.com/IronSummitMedia/startbootstrap"
+    url = "https://twitter.com/Kywyky"
 [[params.social]]
     title = "linkedin"
     icon = "linkedin"
-    url = "http://linkedin.com/yourusername"
+    url = "http://linkedin.com/kywyky"
+[[params.social]]
+    title = "facebook"
+    icon = "facebook"
+    url = "http://facebook.com/kywyky"
 
-
-#baseURL = "http://ubimio.com"
-#languageCode = "en-us"
-#title = "Ubimio"
-#theme = "ubimio"
