@@ -99,7 +99,7 @@ h6 {
     z-index: 1;
     width: 150%;
     opacity: .8;
-    transition: all 0.5s ease;
+    transition: all 1s ease;
 }
 .bck2 {
     background: url('/img/bck2.png') no-repeat bottom center;
@@ -111,7 +111,7 @@ h6 {
     z-index: 2;
     width: 150%;
     opacity: .5;
-    transition: all 0.3s ease;
+    transition: all 0.8s ease;
 }
 .bck3 {
     background: url('/img/bck3.png') no-repeat bottom center;
@@ -123,7 +123,7 @@ h6 {
     z-index: 3;
     width: 150%;
     opacity: .3;
-    transition: all 0.4s ease;
+    transition: all 1.4s ease;
 }
 
 .intro-message h3 {
