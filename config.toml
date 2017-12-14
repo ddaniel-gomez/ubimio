@@ -1,9 +1,10 @@
 baseurl = "/"
 languageCode = "es"
-title = "kywyky | Descubre la nueva plataforma que revolucionará el mundo de los seguros"
+title = "kywyky | Plataforma de seguros"
 theme = "kywyky"
 [params]
     description = "Próximamente"
+    metadesc = "Descubre la nueva plataforma que revolucionará el mundo de los seguros"
     slogan = "Descubre la nueva plataforma que revolucionará el mundo de los seguros"
     author_url = "http://www.sadmedia.com"
     project_url = "http://www.kywyky.com"
