@@ -1,6 +1,6 @@
-baseurl = "http://www.kywyky.com"
+baseurl = "/"
 languageCode = "es"
-title = "kywyky"
+title = "kywyky | Descubre la nueva plataforma que revolucionará el mundo de los seguros"
 theme = "kywyky"
 [params]
     description = "Próximamente"
